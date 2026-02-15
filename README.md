@@ -145,13 +145,4 @@ All visualizations are interconnected, allowing real-time exploration of busines
 
 This project demonstrates the practical application of Business Intelligence and data visualization techniques using Power BI. The dashboard translates raw sales data into actionable insights, facilitating informed decision-making. It is suitable for monitoring business performance, analyzing trends, and optimizing profitability.
 
-📌 INTERNSHIP COMPLIANCE
-
-✔ Dashboard and dataset stored in GitHub repository
-✔ Professional layout, styling, and interactivity implemented
-✔ Completed within the internship duration
-✔ Followed mentor guidance and instructions
-
 <img width="874" height="491" alt="Image" src="https://github.com/user-attachments/assets/79c4603b-e591-4ddf-befd-95aed21db6c2" />
-✔ Properly documented for readability and presentation
-
