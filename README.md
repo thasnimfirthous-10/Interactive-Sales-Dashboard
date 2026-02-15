@@ -151,5 +151,7 @@ This project demonstrates the practical application of Business Intelligence and
 ✔ Professional layout, styling, and interactivity implemented
 ✔ Completed within the internship duration
 ✔ Followed mentor guidance and instructions
+
+<img width="874" height="491" alt="Image" src="https://github.com/user-attachments/assets/79c4603b-e591-4ddf-befd-95aed21db6c2" />
 ✔ Properly documented for readability and presentation
 
